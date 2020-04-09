@@ -3,35 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://khvorov45.github.io/acme-corporation/about/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/contact/</loc>
+    <loc>https://khvorov45.github.io/acme-corporation/contact/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/privacy/</loc>
+    <loc>https://khvorov45.github.io/acme-corporation/privacy/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/terms/</loc>
+    <loc>https://khvorov45.github.io/acme-corporation/terms/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://khvorov45.github.io/acme-corporation/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://khvorov45.github.io/acme-corporation/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://khvorov45.github.io/acme-corporation/tags/</loc>
   </url>
   
 </urlset>
