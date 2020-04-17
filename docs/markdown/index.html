@@ -50,7 +50,7 @@ Top Level H1 H2 #Just a hash tag Also a # tag."/>
     "name": "Acme Corporation",
 
     "@type": "Article",
-    "wordCount":  217 ,
+    "wordCount":  323 ,
     "mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/khvorov45.github.io\/acme-corporation\/markdown\/"},
 
     "@context": "http://schema.org",
@@ -239,8 +239,95 @@ Also a # tag.</p>
 <p>Greater Than: &gt;</p>
 <p>Ampersand: &amp;</p>
 <p>Smiley: 😄</p>
-<p>Embedded HTML: x<!-- raw HTML omitted -->2<!-- raw HTML omitted --></p>
-<p>Floating image via HTML: <!-- raw HTML omitted --> Follow up text after the image. This honors the floats and wraps around the image, automatically going into the next line.</p>
+<p>Embedded HTML: x<sup>2</sup></p>
+<p>Floating image via HTML: <img src="/path/to/image.png" style="float: right; padding: 0 0 0 10px"> Follow up text after the image. This honors the floats and wraps around the image, automatically going into the next line.</p>
+<p>Table:</p>
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th>Job</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Alex</td>
+<td>Web Developer</td>
+</tr>
+<tr>
+<td>Bob</td>
+<td>Sys Admin</td>
+</tr>
+<tr>
+<td>Gabby</td>
+<td>Technical Writer</td>
+</tr>
+</tbody>
+</table>
+<p>Alternate Table:</p>
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th>Mantra</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Alex</td>
+<td>There must be a better way.</td>
+</tr>
+<tr>
+<td>Bob</td>
+<td>Play it safe.</td>
+</tr>
+<tr>
+<td>Gabby</td>
+<td>Try everything, but do what you like.</td>
+</tr>
+</tbody>
+</table>
+<p>Acme Website task list</p>
+<ul>
+<li><input checked="" disabled="" type="checkbox"> Get the home page up</li>
+<li><input checked="" disabled="" type="checkbox"> Update Privacy Policy and Terms of Use</li>
+<li><input disabled="" type="checkbox"> Add the about page</li>
+<li><input disabled="" type="checkbox"> Start the blog</li>
+<li><input disabled="" type="checkbox"> Enable contact us</li>
+</ul>
+<div class="highlight"><div style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
+<table style="border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-js" data-lang="js"><span style="color:#66d9ef">var</span> <span style="color:#a6e22e">x</span><span style="color:#f92672">=</span> <span style="color:#ae81ff">10</span>;
+<span style="color:#a6e22e">x</span><span style="color:#f92672">++</span>;
+<span style="color:#a6e22e">console</span>.<span style="color:#a6e22e">log</span>(<span style="color:#a6e22e">x</span>);
+</code></pre></td></tr></table>
+</div>
+</div><h2 id="direct-emojis">Direct Emojis</h2>
+<p>Smile please 😄</p>
+<p>I ❤ Hugo</p>
+<p>Wink 😉</p>
+<h2 id="fractions">Fractions</h2>
+<p>1/2</p>
+<p>100/999</p>
+<p>Not a Number/5</p>
+<p>A link to <a href="#fractions">Fractions</a></p>
+<h2 id="definition-lists">Definition Lists</h2>
+<dl>
+<dt>Alex</dt>
+<dd>Hippy Web Developer</dd>
+<dd>Technophile</dd>
+<dt>Bob</dt>
+<dd>Classic SysAdmin</dd>
+<dd>Conservative</dd>
+<dt>Gabby</dt>
+<dd>Cool Content Master</dd>
+<dd>Cautious</dd>
+</dl>
 
         </article>
     </section>
@@ -309,7 +396,7 @@ Also a # tag.</p>
     </section>
     
     </div><div id="copyright">Copyright © 2020 Acme Corporation. All Rights Reserved. Last Updated -
-<time datetime="2020-04-17T10:56:59&#43;10:00">Friday, Apr 17, 2020.</time> <br>
+<time datetime="2020-04-17T11:21:54&#43;10:00">Friday, Apr 17, 2020.</time> <br>
     
     Themed using <a href="">Eclectic</a> by <a href="https://atishay.me">Atishay</a>
     
