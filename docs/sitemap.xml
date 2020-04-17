@@ -4,7 +4,12 @@
   
   <url>
     <loc>https://khvorov45.github.io/acme-corporation/about/</loc>
-    <priority>0</priority>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://khvorov45.github.io/acme-corporation/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -28,11 +33,11 @@
   </url>
   
   <url>
-    <loc>https://khvorov45.github.io/acme-corporation/</loc>
+    <loc>https://khvorov45.github.io/acme-corporation/categories/</loc>
   </url>
   
   <url>
-    <loc>https://khvorov45.github.io/acme-corporation/categories/</loc>
+    <loc>https://khvorov45.github.io/acme-corporation/data-driven/</loc>
   </url>
   
   <url>
