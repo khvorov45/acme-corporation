@@ -1,0 +1,14 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: Acme Corporation
+theme: github.com/hugoinaction/Eclectic
+publishDir: docs
+
+markup:
+  highlight:
+    lineNos: true
+  goldmark:
+    renderer:
+      unsafe: true
+
+enableEmoji: true
