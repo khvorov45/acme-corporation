@@ -3,106 +3,130 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://khvorov45.github.io/acme-corporation/blog/</loc>
-    <lastmod>2019-01-04T00:00:00+00:00</lastmod>
+    <loc>http://example.org/blog/process-4/</loc>
+    <lastmod>2020-04-21T14:41:15+10:00</lastmod>
   </url>
   
   <url>
-    <loc>https://khvorov45.github.io/acme-corporation/blog/process-4/</loc>
-    <lastmod>2019-01-04T00:00:00+00:00</lastmod>
+    <loc>http://example.org/blog/process-3/</loc>
+    <lastmod>2020-04-21T14:41:15+10:00</lastmod>
   </url>
   
   <url>
-    <loc>https://khvorov45.github.io/acme-corporation/blog/process-3/</loc>
-    <lastmod>2019-01-03T00:00:00+00:00</lastmod>
+    <loc>http://example.org/blog/process-2/</loc>
+    <lastmod>2020-04-21T14:41:15+10:00</lastmod>
   </url>
   
   <url>
-    <loc>https://khvorov45.github.io/acme-corporation/blog/process-2/</loc>
-    <lastmod>2019-01-02T00:00:00+00:00</lastmod>
+    <loc>http://example.org/blog/process-1/</loc>
+    <lastmod>2020-04-21T14:41:15+10:00</lastmod>
   </url>
   
   <url>
-    <loc>https://khvorov45.github.io/acme-corporation/blog/process-1/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <loc>http://example.org/about/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://khvorov45.github.io/acme-corporation/about/</loc>
+    <loc>http://example.org/</loc>
+    <lastmod>2020-04-21T14:41:15+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/</loc>
+    <lastmod>2020-04-21T14:41:15+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/building-squares/</loc>
+    <lastmod>2020-04-21T14:41:15+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/community/</loc>
+    <lastmod>2020-04-21T14:41:15+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/community/circle/</loc>
+    <lastmod>2020-04-21T14:41:15+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/community/curve/</loc>
+    <lastmod>2020-04-21T14:41:15+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/contact/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/markdown/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/shaper/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/square-license/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/privacy/</loc>
+    <lastmod>2020-04-21T14:41:15+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/terms/</loc>
+    <lastmod>2020-04-21T14:41:15+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/design/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/product/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/data-driven/</loc>
     <lastmod>2020-04-17T13:46:19+10:00</lastmod>
   </url>
   
   <url>
-    <loc>https://khvorov45.github.io/acme-corporation/</loc>
-    <lastmod>2020-04-17T13:46:19+10:00</lastmod>
+    <loc>http://example.org/tags/shape/</loc>
   </url>
   
   <url>
-    <loc>https://khvorov45.github.io/acme-corporation/blog/building-squares/</loc>
+    <loc>http://example.org/categories/shape/</loc>
   </url>
   
   <url>
-    <loc>https://khvorov45.github.io/acme-corporation/blog/community/</loc>
+    <loc>http://example.org/tags/</loc>
   </url>
   
   <url>
-    <loc>https://khvorov45.github.io/acme-corporation/blog/community/circle/</loc>
+    <loc>http://example.org/tags/triangle/</loc>
   </url>
   
   <url>
-    <loc>https://khvorov45.github.io/acme-corporation/blog/community/curve/</loc>
-  </url>
-  
-  <url>
-    <loc>https://khvorov45.github.io/acme-corporation/blog/tropical-triangles/</loc>
-  </url>
-  
-  <url>
-    <loc>https://khvorov45.github.io/acme-corporation/contact/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://khvorov45.github.io/acme-corporation/markdown/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://khvorov45.github.io/acme-corporation/news/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://khvorov45.github.io/acme-corporation/news/shaper/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://khvorov45.github.io/acme-corporation/news/square-license/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://khvorov45.github.io/acme-corporation/privacy/</loc>
-    <lastmod>2020-04-17T10:56:59+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://khvorov45.github.io/acme-corporation/terms/</loc>
-    <lastmod>2020-04-09T13:03:33+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://khvorov45.github.io/acme-corporation/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://khvorov45.github.io/acme-corporation/data-driven/</loc>
-    <lastmod>2020-04-17T13:46:19+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://khvorov45.github.io/acme-corporation/tags/</loc>
+    <loc>http://example.org/blog/tropical-triangles/</loc>
   </url>
   
 </urlset>

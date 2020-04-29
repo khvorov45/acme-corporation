@@ -2,7 +2,7 @@
   xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Acme Corporation</title>
-    <link>https://khvorov45.github.io/acme-corporation/</link>
+    <link>http://example.org/</link>
     <description>Recent content on Acme Corporation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -10,152 +10,152 @@
     <webMaster>contact@example.org (Acme Corporation)</webMaster>
     <lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://khvorov45.github.io/acme-corporation/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
 <title>Our Manufacturing Process Part IV</title>
-<link>https://khvorov45.github.io/acme-corporation/blog/process-4/</link>
+<link>http://example.org/blog/process-4/</link>
 <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>https://khvorov45.github.io/acme-corporation/blog/process-4/</guid>
+      <guid>http://example.org/blog/process-4/</guid>
 <description></description>
 <category></category></item>
     
     <item>
 <title>Our Manufacturing Process Part III</title>
-<link>https://khvorov45.github.io/acme-corporation/blog/process-3/</link>
+<link>http://example.org/blog/process-3/</link>
 <pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>https://khvorov45.github.io/acme-corporation/blog/process-3/</guid>
+      <guid>http://example.org/blog/process-3/</guid>
 <description></description>
 <category></category></item>
     
     <item>
 <title>Our Manufacturing Process Part II</title>
-<link>https://khvorov45.github.io/acme-corporation/blog/process-2/</link>
+<link>http://example.org/blog/process-2/</link>
 <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>https://khvorov45.github.io/acme-corporation/blog/process-2/</guid>
+      <guid>http://example.org/blog/process-2/</guid>
 <description></description>
 <category></category></item>
     
     <item>
 <title>Our Manufacturing Process Part I</title>
-<link>https://khvorov45.github.io/acme-corporation/blog/process-1/</link>
+<link>http://example.org/blog/process-1/</link>
 <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>https://khvorov45.github.io/acme-corporation/blog/process-1/</guid>
+      <guid>http://example.org/blog/process-1/</guid>
 <description></description>
 <category></category></item>
     
     <item>
 <title>About Us</title>
-<link>https://khvorov45.github.io/acme-corporation/about/</link>
+<link>http://example.org/about/</link>
 <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>https://khvorov45.github.io/acme-corporation/about/</guid>
+      <guid>http://example.org/about/</guid>
 <description>World&#39;s leading manufacturer of digital shapes. We shape the world. You live in it.</description>
 <category></category></item>
     
     <item>
 <title></title>
-<link>https://khvorov45.github.io/acme-corporation/blog/building-squares/</link>
+<link>http://example.org/blog/building-squares/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>https://khvorov45.github.io/acme-corporation/blog/building-squares/</guid>
+      <guid>http://example.org/blog/building-squares/</guid>
 <description></description>
 <category></category></item>
     
     <item>
 <title></title>
-<link>https://khvorov45.github.io/acme-corporation/blog/community/circle/</link>
+<link>http://example.org/blog/community/circle/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>https://khvorov45.github.io/acme-corporation/blog/community/circle/</guid>
+      <guid>http://example.org/blog/community/circle/</guid>
 <description></description>
 <category></category></item>
     
     <item>
 <title></title>
-<link>https://khvorov45.github.io/acme-corporation/blog/community/curve/</link>
+<link>http://example.org/blog/community/curve/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>https://khvorov45.github.io/acme-corporation/blog/community/curve/</guid>
+      <guid>http://example.org/blog/community/curve/</guid>
 <description></description>
 <category></category></item>
     
     <item>
 <title></title>
-<link>https://khvorov45.github.io/acme-corporation/blog/tropical-triangles/</link>
+<link>http://example.org/contact/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>https://khvorov45.github.io/acme-corporation/blog/tropical-triangles/</guid>
+      <guid>http://example.org/contact/</guid>
 <description></description>
 <category></category></item>
     
     <item>
 <title></title>
-<link>https://khvorov45.github.io/acme-corporation/contact/</link>
+<link>http://example.org/markdown/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>https://khvorov45.github.io/acme-corporation/contact/</guid>
+      <guid>http://example.org/markdown/</guid>
 <description></description>
 <category></category></item>
     
     <item>
 <title></title>
-<link>https://khvorov45.github.io/acme-corporation/markdown/</link>
+<link>http://example.org/news/shaper/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>https://khvorov45.github.io/acme-corporation/markdown/</guid>
+      <guid>http://example.org/news/shaper/</guid>
 <description></description>
 <category></category></item>
     
     <item>
 <title></title>
-<link>https://khvorov45.github.io/acme-corporation/news/shaper/</link>
+<link>http://example.org/news/square-license/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>https://khvorov45.github.io/acme-corporation/news/shaper/</guid>
+      <guid>http://example.org/news/square-license/</guid>
 <description></description>
 <category></category></item>
     
     <item>
 <title></title>
-<link>https://khvorov45.github.io/acme-corporation/news/square-license/</link>
+<link>http://example.org/privacy/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>https://khvorov45.github.io/acme-corporation/news/square-license/</guid>
+      <guid>http://example.org/privacy/</guid>
 <description></description>
 <category></category></item>
     
     <item>
 <title></title>
-<link>https://khvorov45.github.io/acme-corporation/privacy/</link>
+<link>http://example.org/terms/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>https://khvorov45.github.io/acme-corporation/privacy/</guid>
-<description></description>
-<category></category></item>
-    
-    <item>
-<title></title>
-<link>https://khvorov45.github.io/acme-corporation/terms/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@example.org (Acme Corporation)</author>
-      <guid>https://khvorov45.github.io/acme-corporation/terms/</guid>
+      <guid>http://example.org/terms/</guid>
 <description></description>
 <category></category></item>
     
     <item>
 <title>Sample data driven page using eclectic.</title>
-<link>https://khvorov45.github.io/acme-corporation/data-driven/</link>
+<link>http://example.org/data-driven/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>https://khvorov45.github.io/acme-corporation/data-driven/</guid>
+      <guid>http://example.org/data-driven/</guid>
 <description></description>
 <category></category></item>
+    
+    <item>
+<title>Tropical triangles</title>
+<link>http://example.org/blog/tropical-triangles/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>http://example.org/blog/tropical-triangles/</guid>
+<description></description>
+<category>ShapeDesign</category></item>
     
   </channel>
 </rss>
