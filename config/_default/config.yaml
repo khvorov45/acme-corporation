@@ -14,3 +14,5 @@ markup:
 enableEmoji: true
 
 enableGitInfo: true
+
+enableInlineShortcodes: true
